@@ -14,10 +14,10 @@ load_dotenv()
 CONFIG = {
     "TOKEN": os.getenv("DISCORD_TOKEN", "").strip(),
     "APPLICATION_ID": os.getenv("APPLICATION_ID", "").strip(),   # BẮT BUỘC
-    "NAME": "Nguyen Gia Huy",
+    "NAME": "for in love",
     "DETAILS": "Only u",
     "LARGE_IMAGE": os.getenv("LARGE_IMAGE", ""),                 # Không bắt buộc nữa
-    "LARGE_TEXT": "Nguyen Gia Huy",
+    "LARGE_TEXT": "bes bo",
 }
 # ====================================================
 
